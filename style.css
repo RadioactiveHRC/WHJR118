@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+span {
+    padding-top: 10px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+#score {
+    font-size:35px;
+    margin-left:20px;
+}
+#time {
+    font-size: 35px;
+    float:right;
+}
